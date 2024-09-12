@@ -1,0 +1,1432 @@
+[
+  {
+    "path": "/us/ff-91/",
+    "slots": [
+      {
+        "_id": "633f18cf5293850027f64126",
+        "slotId": "menu-bar",
+        "components": [
+          {
+            "_id": "633f18cf5293850027f64127",
+            "presetId": "5b9c2a62794d4e0021a65adc",
+            "widgetId": "MenuBar",
+            "props": {
+              "scroll_effect": true,
+              "color_theme": "DARK",
+              "logo_link": "/us",
+              "first_set": [
+                {
+                  "url": "/us/ff-91",
+                  "label": "FF 91",
+                  "subnav": [
+                    { "url": "/us/ff-91#design", "label": "Design" },
+                    { "url": "/us/ff-91#performance", "label": "Performance" },
+                    { "url": "/us/ff-91#technology", "label": "Technology" },
+                    { "url": "/us/ff-91#interior", "label": "Interior" }
+                  ]
+                },
+                {
+                  "url": "/us/futuresight",
+                  "label": "FUTURESIGHT",
+                  "subnav": []
+                },
+                { "label": "Careers", "url": "/us/careers", "subnav": [] },
+                {
+                  "subnav": [
+                    { "label": "Our Company", "url": "/us/our-company" },
+                    { "label": "Our Approach", "url": "/us/our-approach" },
+                    { "label": "Press Room", "url": "/us/press-room" },
+                    { "url": "/us/ff-zero-1", "label": "FF ZERO 1" }
+                  ],
+                  "label": "ABOUT US",
+                  "url": ""
+                }
+              ],
+              "second_set": [
+                {
+                  "label": "Support",
+                  "subnav": [
+                    { "url": "/us/contact-us", "label": "Contact Us" },
+                    { "url": "/us/frequently-asked-questions", "label": "FAQ" },
+                    { "label": "Charging", "url": "/us/charging" }
+                  ]
+                },
+                { "url": "/us/account/login", "label": "My FF" }
+              ]
+            },
+            "subcomponents": []
+          }
+        ]
+      },
+      {
+        "_id": "633f18cf5293850027f64128",
+        "slotId": "footer",
+        "components": [
+          {
+            "_id": "633f18cf5293850027f64129",
+            "presetId": "5b36741d57d52e000fac6da9",
+            "widgetId": "Footer",
+            "props": {
+              "regions": [
+                {
+                  "imgUrl": "https://genesis-cdn.ff.com/icon-en.png",
+                  "value": "US"
+                },
+                {
+                  "imgUrl": "https://genesis-cdn.ff.com/icon-china.png",
+                  "value": "CN"
+                }
+              ],
+              "items": [
+                { "url": "/us/sitemap", "label": "Sitemap" },
+                { "url": "/us/privacy-policy", "label": "Privacy & Legal" },
+                { "url": "/us/contact-us", "label": "Contact Us" }
+              ],
+              "socialLinks": [
+                {
+                  "url": "https://www.linkedin.com/company/faradayfuture",
+                  "icon": "ff-icon-social-linkedin"
+                },
+                {
+                  "url": "https://www.youtube.com/c/faradayfuture",
+                  "icon": "ff-icon-social-youtube"
+                },
+                {
+                  "url": "https://twitter.com/faradayfuture?lang=en",
+                  "icon": "ff-icon-social-twitter"
+                },
+                {
+                  "url": "https://www.facebook.com/faradayfuture/",
+                  "icon": "ff-icon-social-facebook"
+                },
+                {
+                  "url": "https://plus.google.com/+Faradayfuture",
+                  "icon": "ff-icon-social-google-plus-new"
+                },
+                {
+                  "url": "https://www.instagram.com/faradayfuture/",
+                  "icon": "ff-icon-social-instagram"
+                }
+              ],
+              "copyright": {
+                "text": "Faraday&Future Inc. The Faraday Future name and logo are trademarks of Faraday&Future Inc. All rights reserved."
+              }
+            },
+            "subcomponents": []
+          }
+        ]
+      },
+      {
+        "_id": "633f18cf5293850027f6412a",
+        "slotId": "content",
+        "components": [
+          {
+            "_id": "633f18cf5293850027f6412b",
+            "presetId": null,
+            "widgetId": "HeroLanding",
+            "props": {
+              "text_animation": false,
+              "play_on_enter": false,
+              "loop": false,
+              "color_theme": "DARK",
+              "bg_image": {
+                "url": "https://genesis-cdn.ff.com/faraday-future-ff-91/faraday-future-ff-91-eminence-hero-image.jpg",
+                "dark_overlay": "20",
+                "position": "CENTER CENTER"
+              },
+              "bg_video": { "url": "", "cover": "" },
+              "cta_block": {
+                "section": "FF 91",
+                "title": "venture forward",
+                "subtitle": "",
+                "description": "",
+                "buttons": [
+                  {
+                    "label": "FF 91 3D Tour",
+                    "url": "https://www.ff.com/us/3D-tour",
+                    "hide_for_blocked_areas": false,
+                    "open_in_new_tab": true
+                  }
+                ]
+              }
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f6412c",
+            "presetId": null,
+            "widgetId": "StickySubNav",
+            "props": {
+              "cta": [
+                {
+                  "label": "PREORDER",
+                  "url": "/us/reserve",
+                  "hide_for_blocked_areas": ""
+                }
+              ],
+              "sections": [
+                { "tag": "design", "label": "Design" },
+                { "tag": "performance", "label": "Performance" },
+                { "tag": "technology", "label": "Technology" },
+                { "tag": "interior", "label": "Interior" }
+              ],
+              "page_title": "FF 91"
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f6412d",
+            "presetId": null,
+            "widgetId": "SectionIntro",
+            "props": {
+              "height": 100,
+              "layout": "LEFT 0",
+              "additional_overlay_img": "",
+              "fixed_bg": { "enable": true, "speed": "300" },
+              "bg_img": {
+                "background_color": "#FFFFFF",
+                "disable_img": false,
+                "position": "RIGHT CENTER",
+                "dark_overlay": "20",
+                "url": "https://genesis-cdn.ff.com/faraday-future-ff-91/silver-faraday-future-ff-91-electric-car-exiting-driveway.jpg"
+              },
+              "text_block": {
+                "description": "FF 91 is our first production vehicle and flagship model. All-electric, autonomous-ready and seamlessly connected, it embodies our latest mobility advancements in performance, intelligence, and user experience. This is the reason why we gave FF 91 a future-forward design that visually sets it apart from anything else on the road.",
+                "title": "A Beautiful Future",
+                "section_header": "FF 91 DESIGN",
+                "text_animation": true
+              },
+              "section_tag": "design"
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f6412e",
+            "presetId": null,
+            "widgetId": "WaterfallGallery",
+            "props": {
+              "intro_text": "",
+              "bg_img": {
+                "background_color": "#000",
+                "disable_img": true,
+                "fixed_bg": true,
+                "position": "CENTER CENTER",
+                "dark_overlay": 0,
+                "url": "https://genesis-cdn.ff.com/product/02_gallery/ff-91-front-lighting-background-image.jpg"
+              },
+              "images": [
+                {
+                  "id": 0,
+                  "members": [0, 5, 1, 4],
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91/ff-91-gallery11.jpg",
+                  "size": "LARGE"
+                },
+                {
+                  "id": 2,
+                  "members": [2, 3],
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91/ff-91-gallery6.jpg",
+                  "size": "HORIZONTAL_MEDIUM"
+                },
+                {
+                  "id": 6,
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91-interior/FINAL_FF91_Interior_Shot4_WIP2_FIXED_AGAINed3.jpg",
+                  "coverUrl": "",
+                  "socialUrl": "",
+                  "title": "",
+                  "titleColor": "Dark",
+                  "size": "LARGE",
+                  "members": [6, 11, 7, 10]
+                },
+                {
+                  "id": 8,
+                  "members": [8, 9],
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91/ff-91-gallery20.jpg",
+                  "size": "HORIZONTAL_MEDIUM"
+                },
+                {
+                  "id": 12,
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91-interior/FINAL_FF91_Interior_Shot11_WIPfixxxxx.jpg",
+                  "coverUrl": "",
+                  "socialUrl": "",
+                  "title": "",
+                  "titleColor": "Dark",
+                  "size": "HORIZONTAL_MEDIUM",
+                  "members": [12, 13]
+                },
+                {
+                  "id": 14,
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91-interior/FF91_PRESTON_010_A.jpg",
+                  "coverUrl": "",
+                  "socialUrl": "",
+                  "title": "",
+                  "titleColor": "Dark",
+                  "size": "SMALL",
+                  "members": [14]
+                },
+                {
+                  "id": 15,
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91-interior/FINAL_IMG_2673_fixed_againedd.jpg",
+                  "coverUrl": "",
+                  "socialUrl": "",
+                  "title": "",
+                  "titleColor": "Dark",
+                  "size": "VERTICAL_MEDIUM",
+                  "members": [15, 19]
+                },
+                {
+                  "id": 16,
+                  "members": [16],
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91/ff-91-gallery5.jpg",
+                  "size": "SMALL"
+                },
+                {
+                  "id": 17,
+                  "members": [17, 21],
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91/ff-91-gallery22.jpg",
+                  "size": "VERTICAL_MEDIUM"
+                },
+                {
+                  "id": 18,
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91-interior/FF91_PRESTON_012.jpg",
+                  "coverUrl": "",
+                  "socialUrl": "",
+                  "title": "",
+                  "titleColor": "Dark",
+                  "size": "SMALL",
+                  "members": [18]
+                },
+                {
+                  "id": 20,
+                  "members": [20],
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91/ff-91-gallery10.jpg",
+                  "size": "SMALL"
+                },
+                {
+                  "id": 22,
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91-interior/FF91_PRESTON_013.jpg",
+                  "coverUrl": "",
+                  "socialUrl": "",
+                  "title": "",
+                  "titleColor": "Dark",
+                  "size": "HORIZONTAL_MEDIUM",
+                  "members": [22, 23]
+                },
+                {
+                  "id": 24,
+                  "members": [24, 29, 25, 28],
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91/ff-91-gallery21.jpg",
+                  "size": "LARGE"
+                },
+                {
+                  "id": 26,
+                  "members": [26, 27],
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91/ff-91-gallery25-png.jpg",
+                  "size": "HORIZONTAL_MEDIUM"
+                },
+                {
+                  "id": 30,
+                  "members": [30, 31],
+                  "url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91/ff-91-gallery24.jpg",
+                  "size": "HORIZONTAL_MEDIUM"
+                }
+              ],
+              "gallery_options": {
+                "full_gallery_link": "/us/gallery/",
+                "top_offset": true,
+                "gallery_button": true,
+                "mobile_carousel": false,
+                "social_media_icons": true,
+                "gallery_button_label": "FF Full Gallery"
+              },
+              "social_share": {
+                "qr_code_url": "https://www.ff.com/us/ff-91/",
+                "social_media_icons": [
+                  {
+                    "url": "https://linkedin.com/shareArticle?url=https://www.ff.com/us/ff-91/",
+                    "icon": "ff-icon-social-linkedin"
+                  },
+                  {
+                    "url": "https://twitter.com/intent/tweet?text=https://www.ff.com/us/ff-91/",
+                    "icon": "ff-icon-social-twitter"
+                  },
+                  {
+                    "url": "https://www.facebook.com/sharer.php?u=https://www.ff.com/us/ff-91/",
+                    "icon": "ff-icon-social-facebook"
+                  }
+                ]
+              }
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f6412f",
+            "widgetId": "OnionPeel",
+            "props": {
+              "section_tag": "performance",
+              "intro": {
+                "bgimage": "https://genesis-cdn.ff.com/ff91/03_performance/01.jpg",
+                "pageSectionHeader": "FF 91 Performance",
+                "title": "A Cleaner, More Electrifying Future",
+                "introText": "Committed to breathtaking power that also allows us to breathe more freely, our engineers are pushing the limits of electric performance and range. Designed to be highly modular, our Variable Platform Architecture (VPA) securely houses the battery, powertrain and the FF Echelon Inverter™, our first patent."
+              },
+              "features": {
+                "bgimage": "https://genesis-cdn.ff.com/ff91/03_performance/02-default.jpg",
+                "featureList": [
+                  { "title": "3 Electric Motors" },
+                  { "title": "0-60 in 2.39 secs" },
+                  { "title": "1050 Horsepower" },
+                  { "title": "Dynamic Vehicle Control" }
+                ]
+              },
+              "additionalScreens": [
+                {
+                  "bgimage": "https://genesis-cdn.ff.com/ff91/03_performance/03-default.jpg",
+                  "title": "381 Miles per Charge",
+                  "description": "Our lithium-ion battery cells achieve the world’s highest energy density – nearly double that of a production automotive battery. This not only represents a significant step forward in battery technology, it’s a tremendous increase in range, well in excess of 300 miles on a single charge.",
+                  "textLayout": "LEFT",
+                  "hide_on_mobile": false
+                }
+              ]
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f64130",
+            "presetId": null,
+            "widgetId": "CTABanner",
+            "props": {
+              "cta": { "url": "/us/charging", "label": "Learn more" },
+              "text": "FF believes the future of charging is fast, open and effortless.",
+              "text_animation": true
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f64131",
+            "presetId": null,
+            "widgetId": "VideoTwoUps",
+            "props": {
+              "videos": [
+                {
+                  "title": "TESTING THE FF 91: DYNAMIC VEHICLE CONTROL",
+                  "cover_image": "https://genesis-cdn.ff.com/product/video%20covers/responsive/testing-the-ff-91-dynamic-vehicle-control-video-cover-1200w.jpg",
+                  "video_url": "",
+                  "youtube_link": "https://www.youtube.com/watch?v=Mziv4PzUxQo"
+                },
+                {
+                  "title": "TESTING THE FF 91: AERODYNAMICS",
+                  "cover_image": "https://genesis-cdn.ff.com/product/video%20covers/responsive/testing-aerodynamics-ff-91-wind-tunnel-image-1200w.jpg",
+                  "video_url": "",
+                  "youtube_link": "https://www.youtube.com/watch?v=-_ubOiRsMQ0"
+                }
+              ]
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f64132",
+            "presetId": null,
+            "widgetId": "SectionIntro",
+            "props": {
+              "section_tag": "technology",
+              "text_block": {
+                "text_animation": true,
+                "section_header": "FF 91 TECHNOLOGY",
+                "title": "An Intelligent Future",
+                "description": "Everything about our cutting-edge technology was created to make your life more connected, more engaging, more effortless. We designed our A.I. and user interaction to be as intuitive and convenient as possible, giving you back more of your invaluable time."
+              },
+              "bg_img": {
+                "url": "https://genesis-cdn.ff.com/ff91/05_technology/ff-91-intelligent-technology-silhouette-default.jpg",
+                "dark_overlay": 0,
+                "position": "CENTER CENTER",
+                "disable_img": false,
+                "background_color": "#FFFFFF"
+              },
+              "fixed_bg": { "enable": true, "speed": "300" },
+              "additional_overlay_img": "",
+              "layout": "CENTER BOTTOM",
+              "height": 100
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f64133",
+            "presetId": null,
+            "widgetId": "Showcase",
+            "props": {
+              "feature": {
+                "image_url": "https://genesis-cdn.ff.com/faraday-future-gallery/ff-91/ff-91-gallery32.jpg",
+                "video_cover": "",
+                "video_url": ""
+              },
+              "description": "Your unique FFID profile encompasses an extensive range of your driving preferences and content choices. It’s how FF 91 recognizes and greets you before you enter the vehicle, and it becomes more intuitive about your preferences every time you drive. Because the more you use FF 91, the smarter about you it becomes, delivering a truly bespoke experience.",
+              "title": "More personal with each drive",
+              "text_placement": "BOTTOM",
+              "bg_img": {
+                "background_color": "",
+                "dark_overlay": 0,
+                "position": "CENTER CENTER",
+                "url": "https://genesis-cdn.ff.com/ff91/05_technology/02.jpg"
+              },
+              "color_theme": "DARK"
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f64134",
+            "presetId": null,
+            "widgetId": "TransitionSection",
+            "props": {
+              "parallax_effect": { "speed": 300, "enable": true },
+              "bg_img": {
+                "scroll_in_animation": false,
+                "background_color": "black",
+                "dark_overlay": 0,
+                "position": "CENTER CENTER",
+                "url": "https://genesis-cdn.ff.com/product/06_interstitial/ff-91-rear-lighting-default.jpg"
+              }
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f64135",
+            "presetId": null,
+            "widgetId": "VideoTwoUps",
+            "props": {
+              "videos": [
+                {
+                  "title": "FF 91 EXTERIOR: SCULPTED FOR REVOLUTION",
+                  "cover_image": "https://genesis-cdn.ff.com/product/video%20covers/responsive/ff-91-exterior-sculpted-for-revolution-video-cover-1200w.jpg",
+                  "video_url": "",
+                  "youtube_link": "https://www.youtube.com/watch?v=hwh692USxDU"
+                },
+                {
+                  "title": "TESTING FF 91: PIKES PEAK",
+                  "cover_image": "https://genesis-cdn.ff.com/ff91/video_covers/responsive/testing-ff-91-pikes-peak-video-cover-1200w.jpg",
+                  "video_url": "",
+                  "youtube_link": "https://www.youtube.com/watch?v=fIvxFE-TgPY"
+                }
+              ]
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f64136",
+            "presetId": null,
+            "widgetId": "SectionIntro",
+            "props": {
+              "height": 100,
+              "layout": "LEFT 20%",
+              "additional_overlay_img": "",
+              "fixed_bg": { "enable": true, "speed": "300" },
+              "bg_img": {
+                "background_color": "#FFFFFF",
+                "disable_img": false,
+                "position": "CENTER CENTER",
+                "dark_overlay": 0,
+                "url": "https://genesis-cdn.ff.com/ff91/07_design/ff-91-seating-design.jpg"
+              },
+              "text_block": {
+                "description": "The next generation of automotive interiors will be redefined by dramatic innovations in mobility. Envisioning the possibilities, we designed FF 91 from the ground up as a present-day realization of tomorrow’s premium vehicle. Experience an array of well-appointed features that epitomize both modern and future luxury.",
+                "title": "An Effortless Future",
+                "section_header": "FF 91 INTERIOR",
+                "text_animation": true
+              },
+              "section_tag": "interior"
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f64137",
+            "presetId": null,
+            "widgetId": "FancySlideShow",
+            "props": {
+              "slides": [
+                {
+                  "bg_img": {
+                    "url": "",
+                    "focal_image": "",
+                    "mobile_image": "",
+                    "dark_overlay": 0,
+                    "position": "CENTER CENTER",
+                    "background_color": "#edeced"
+                  },
+                  "bg_video": {
+                    "url": "https://genesis-cdn.ff.com/product/07_design/04.mp4",
+                    "cover": "https://genesis-cdn.ff.com/ff91/07_design/ff-91-seating-design.jpg",
+                    "loop": false,
+                    "play_on_enter": true
+                  },
+                  "content": {
+                    "color_theme": "LIGHT",
+                    "title": "Defy Gravity",
+                    "description": "In zero gravity, the human body naturally assumes what NASA scientists call the Neutral Body Posture. Our rear seats are designed to these specifications and enable the ideal distribution of your body’s weight. For even more comfort, the ventilated seats can massage away pressure and stress.",
+                    "layout": "TOP LEFT"
+                  }
+                }
+              ]
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f64138",
+            "presetId": null,
+            "widgetId": "CTASection",
+            "props": {
+              "cta": {
+                "url": "https://www.ff.com/us/reserve",
+                "label": {
+                  "placement": "AFTER",
+                  "icon": "ff-icon-long-arrow-right",
+                  "text": "preorder"
+                },
+                "hide_for_blocked_areas": true
+              },
+              "description": "Help us shape the imminent future of electric mobility. Become one of the very first to preorder the autonomous-ready, dynamically advanced FF 91. For questions, contact us at product@faradayfuture.com.",
+              "title": "Your Future",
+              "parallax_effect": { "speed": 300, "enable": false },
+              "bg_img": {
+                "mobile_img": {
+                  "dark_overlay": 0,
+                  "position": "LEFT TOP",
+                  "url": "https://genesis-cdn.ff.com/product/08_last/genesis-ff91-design-reserve-01-default.jpg"
+                },
+                "desktop_img": {
+                  "dark_overlay": "20",
+                  "position": "LEFT BOTTOM",
+                  "url": "https://genesis-cdn.ff.com/ff91/08_last/genesis-ff91-design-reserve-01-default.jpg"
+                }
+              },
+              "text_position": "RIGHT",
+              "text_animation": true,
+              "color_theme": "DARK"
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f64139",
+            "presetId": null,
+            "widgetId": "Footnote",
+            "props": {
+              "additional_space": true,
+              "notes": [
+                {
+                  "note": "Lidar – Production vehicle specifications may differ."
+                },
+                {
+                  "note": "Camera Mirrors – Camera and rear view mirrors are both standard."
+                },
+                {
+                  "note": "Range – Production vehicle specifications may differ."
+                }
+              ],
+              "color_theme": "DARK"
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f6413a",
+            "presetId": null,
+            "widgetId": "Footnote",
+            "props": {
+              "notes": [],
+              "additional_space": true,
+              "color_theme": "DARK"
+            },
+            "subcomponents": []
+          },
+          {
+            "_id": "633f18cf5293850027f6413b",
+            "presetId": null,
+            "widgetId": "Footnote",
+            "props": {
+              "notes": [],
+              "additional_space": true,
+              "color_theme": "DARK"
+            },
+            "subcomponents": []
+          }
+        ]
+      }
+    ],
+    "templateSettings": { "subnav_padding": false },
+    "widgetPresets": [
+      {
+        "_id": "5ad0e1392deba10010ed5983",
+        "updatedAt": "2022-08-03T18:08:36.914Z",
+        "createdAt": "2018-04-13T16:56:25.803Z",
+        "title": "US | Light | Header Navigation",
+        "widgetId": "MenuBar",
+        "props": {
+          "second_set": [
+            {
+              "subnav": [],
+              "label": "SIGN IN",
+              "url": "/us/MyFF/",
+              "loggedInLabel": "My FF"
+            }
+          ],
+          "first_set": [
+            { "subnav": [], "label": "FF 91", "url": "/us/ff-91/" },
+            {
+              "url": "/us/configurator/",
+              "label": "DESIGN YOURS",
+              "subnav": []
+            },
+            { "url": "/us/mobile-app/", "label": "APP", "subnav": [] },
+            {
+              "url": "https://investors.ff.com/",
+              "label": "INVESTORS",
+              "subnav": []
+            }
+          ],
+          "logo_link": "/us/",
+          "color_theme": "LIGHT",
+          "scroll_effect": true,
+          "hero_button": { "url": "/us/preorder/", "label": "PREORDER" }
+        },
+        "createdBy": "59eba5af2c355e000f2e29b0",
+        "updatedBy": "5c33fa545272e90037e8ccc5",
+        "__v": 0
+      },
+      {
+        "_id": "5ad0e3b32deba10010ed6a1b",
+        "updatedAt": "2022-08-03T18:08:47.695Z",
+        "createdAt": "2018-04-13T17:06:59.455Z",
+        "title": "US | Dark | Header Navigation",
+        "widgetId": "MenuBar",
+        "props": {
+          "scroll_effect": true,
+          "color_theme": "DARK",
+          "logo_link": "/us/",
+          "first_set": [
+            { "url": "/us/ff-91/", "label": "FF 91", "subnav": [] },
+            {
+              "url": "/us/configurator/",
+              "label": "DESIGN YOURS",
+              "subnav": []
+            },
+            { "url": "/us/mobile-app/", "label": "APP", "subnav": [] },
+            {
+              "url": "https://investors.ff.com/",
+              "label": "INVESTORS",
+              "subnav": []
+            }
+          ],
+          "second_set": [
+            {
+              "url": "/us/MyFF/",
+              "label": "SIGN IN",
+              "loggedInLabel": "My FF",
+              "subnav": []
+            }
+          ],
+          "hero_button": { "url": "/us/preorder/", "label": "PREORDER" }
+        },
+        "createdBy": "59eba5af2c355e000f2e29b0",
+        "updatedBy": "5c33fa545272e90037e8ccc5",
+        "__v": 0
+      },
+      {
+        "_id": "5ad0f5472deba10010ee1231",
+        "updatedAt": "2020-12-16T19:15:00.636Z",
+        "createdAt": "2018-04-13T18:21:59.320Z",
+        "title": "US | Press Room Contact",
+        "widgetId": "ContactBlock",
+        "props": {
+          "scrollAnimation": true,
+          "left_col": {
+            "header": "PRESS CONTACT",
+            "text": "<p>Thanks for your interest in FF and the future of mobility.&nbsp;</p>\n<p>For media inquiries, contact us:</p>\n<p>&nbsp;John Schilling</p>\n<p>&nbsp;<a href=\"mailto:john.schilling@ff.com\">john.schilling@ff.com</a></p>\n<p>&nbsp;310.956.6488&nbsp;</p>",
+            "enable_icons": false,
+            "icons": []
+          },
+          "enable_right_col": false,
+          "right_col": {
+            "header": "",
+            "text": "",
+            "enable_icons": false,
+            "icons": []
+          }
+        },
+        "createdBy": "59eba5af2c355e000f2e29b0",
+        "updatedBy": "5a1dafa9b19633000f2c0b18",
+        "__v": 0
+      },
+      {
+        "_id": "5ad0f8d42deba10010ee2f2d",
+        "updatedAt": "2022-03-02T01:33:06.310Z",
+        "createdAt": "2018-04-13T18:37:08.776Z",
+        "title": "CN | Press Room Contact",
+        "widgetId": "ContactBlock",
+        "props": {
+          "right_col": {
+            "icons": [],
+            "enable_icons": false,
+            "text": "",
+            "header": ""
+          },
+          "enable_right_col": false,
+          "left_col": {
+            "icons": [],
+            "enable_icons": false,
+            "text": "<p>感谢您对FF和未来出行的关注。&nbsp;</p>\n<p>问询请联系：<a href=\"mailto:press@ff.com\"> press@ff.com</a></p>",
+            "header": "媒体联络"
+          },
+          "scrollAnimation": true
+        },
+        "createdBy": "59eba5af2c355e000f2e29b0",
+        "updatedBy": "5c33fa545272e90037e8ccc5",
+        "__v": 0
+      },
+      {
+        "_id": "5ad51b272deba10010f3dc6b",
+        "updatedAt": "2022-05-10T18:06:15.999Z",
+        "createdAt": "2018-04-16T21:52:39.710Z",
+        "title": "CN | Light | Header Navigation",
+        "widgetId": "MenuBar",
+        "props": {
+          "second_set": [
+            {
+              "label": "登录",
+              "url": "/cn/MyFF/",
+              "loggedInLabel": "我的FF",
+              "subnav": []
+            }
+          ],
+          "first_set": [
+            { "subnav": [], "label": "FF 91", "url": "/cn/ff-91/" },
+            { "url": "/cn/configurator/", "label": "定制", "subnav": [] },
+            { "url": "/cn/mobile-app/", "label": "APP", "subnav": [] },
+            { "subnav": [], "label": "投资关系", "url": "/cn/investors/" }
+          ],
+          "logo_link": "/cn",
+          "color_theme": "LIGHT",
+          "scroll_effect": true,
+          "hero_button": { "url": "/cn/preorder/", "label": "立即预订" }
+        },
+        "createdBy": "59f0af3acf17af000f887ae7",
+        "updatedBy": "60ad5ccda5344e00171c20ba",
+        "__v": 0
+      },
+      {
+        "_id": "5ad51fd82deba10010f3f0b2",
+        "updatedAt": "2022-05-10T18:06:25.407Z",
+        "createdAt": "2018-04-16T22:12:41.001Z",
+        "title": "CN | Dark | Header Navigation",
+        "widgetId": "MenuBar",
+        "props": {
+          "scroll_effect": true,
+          "color_theme": "DARK",
+          "logo_link": "/cn",
+          "first_set": [
+            { "url": "/cn/ff-91/", "label": "FF 91", "subnav": [] },
+            { "url": "/cn/configurator/", "label": "定制", "subnav": [] },
+            { "url": "/cn/mobile-app/", "label": "APP", "subnav": [] },
+            { "url": "/cn/investors/", "label": "投资关系", "subnav": [] }
+          ],
+          "second_set": [
+            {
+              "url": "/cn/MyFF/",
+              "label": "登录",
+              "loggedInLabel": "我的FF",
+              "subnav": []
+            }
+          ],
+          "hero_button": { "url": "/cn/preorder/", "label": "立即预订" }
+        },
+        "createdBy": "59f0af3acf17af000f887ae7",
+        "updatedBy": "60ad5ccda5344e00171c20ba",
+        "__v": 0
+      },
+      {
+        "_id": "5afdc218b813660010059015",
+        "title": "CN | Footer Navigation",
+        "widgetId": "Footer",
+        "props": {
+          "regions": [
+            {
+              "imgUrl": "https://genesis-cdn.faradayfuturecn.com/icon-en.png",
+              "value": "US",
+              "domain": "https://www.ff.com/us/"
+            },
+            {
+              "imgUrl": "https://genesis-cdn.faradayfuturecn.com/icon-china.png",
+              "value": "CN",
+              "domain": "https://www.faradayfuturecn.com/cn/"
+            }
+          ],
+          "items": [
+            {
+              "url": "/cn/sitemap",
+              "label": "网站地图",
+              "sectionTitle": "关于我们",
+              "links": [
+                { "url": "/cn/our-company/", "label": "公司介绍" },
+                { "url": "/cn/our-approach/", "label": "创新之路" },
+                { "url": "/cn/our-team/", "label": "公司团队" },
+                { "url": "/cn/co-creation/", "label": "价值链共创" },
+                { "url": "/cn/press-room/", "label": "新闻室" },
+                { "url": "/cn/futuresight/", "label": "博客" },
+                { "url": "/cn/ff-zero-1/", "label": "FF Zero 1" },
+                { "url": "/cn/gallery/", "label": "FF集览" },
+                { "url": "https://investors.ff.com/", "label": "投资者" }
+              ]
+            },
+            {
+              "url": "/cn/privacy-policy",
+              "label": "隐私政策",
+              "sectionTitle": "支持",
+              "links": [
+                { "url": "/cn/contact-us/", "label": "联系我们" },
+                {
+                  "url": "/cn/frequently-asked-questions/",
+                  "label": "常见问题说明"
+                },
+                { "url": "/cn/careers/", "label": "工作机会" },
+                { "url": "/cn/sitemap/", "label": "网站地图" },
+                { "url": "/cn/privacy-policy/", "label": "隐私政策" }
+              ]
+            }
+          ],
+          "socialLinks": [
+            {
+              "url": "http://weibo.com/u/5801670517",
+              "icon": "ff-icon-social-weibo"
+            },
+            {
+              "url": "https://genesis-cdn.faradayfuturecn.com/WeChat%20QR%20code.jpg",
+              "icon": "ff-icon-social-wechat"
+            }
+          ],
+          "copyright": {
+            "text": "© 2022 Faraday Future的名称和标识均为Faraday&Future Inc.的商标，FF保留所有权利。",
+            "link_url": "https://beian.miit.gov.cn",
+            "link_text": "京ICP备19018825号-1",
+            "moreLinks": [
+              {
+                "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502045145",
+                "text": "京公网安备 11010502045145号",
+                "icon_url": "https://genesis-cdn.faradayfuturecn.com/beian-icon.png"
+              }
+            ],
+            "show_horizontal_alignment": true
+          },
+          "footerRegion": "CN",
+          "download": {
+            "url": "https://www.faradayfuturecn.com/cn/mobile-app/",
+            "title": "下载 FF INTELLIGENT APP",
+            "iosStoreLink": "https://itunes.apple.com/cn/app/id1454187098",
+            "iosAppLink": "https://faradayfuture.app.link",
+            "iosImage": "https://genesis-cdn.faradayfuturecn.com/assets/components/footer/Generic-iPhone-Badge-k.svg",
+            "androidStoreLink": "https://www.faradayfuturecn.com/cn/apk/latest.apk",
+            "androidAppLink": "faradayfuture://feed",
+            "androidImage": "https://genesis-cdn.faradayfuturecn.com/assets/components/footer/Generic-Android-Badge-k.svg",
+            "appButtonText": "下载 APP",
+            "androidApkLink": "https://www.faradayfuturecn.com/cn/apk/latest.apk"
+          },
+          "subscribeForm": {
+            "submitUrl": "/api/subscribe",
+            "enabled": false,
+            "title": "订阅FF的最新消息",
+            "inputPlaceholder": "电子邮箱*",
+            "inputErrorMessage": "* 请输入有效邮箱",
+            "serverErrorMessage": "请求失败，请稍后重试。",
+            "successMessage": "感谢您对FF的关注！我们会在未来定期为您提供有关Faraday Future的新闻资讯以及相关市场活动信息。",
+            "button": "订阅 →",
+            "margin": "10px 0px",
+            "subtitle": "订阅以获取FF 91 Futurist和Faraday Future的新闻。"
+          }
+        },
+        "createdBy": "59eba5af2c355e000f2e29b0",
+        "updatedBy": "5c33fa545272e90037e8ccc5",
+        "createdAt": "2018-05-17T17:55:36.148Z",
+        "updatedAt": "2022-12-01T18:01:21.281Z",
+        "__v": 0
+      },
+      {
+        "_id": "5aff218a775962001013f554",
+        "title": "IP Block",
+        "widgetId": "StickySubNav",
+        "props": {
+          "page_title": "FF 91",
+          "sections": [
+            { "label": "Design", "tag": "design" },
+            { "label": "Performance", "tag": "performance" },
+            { "label": "Technology", "tag": "technology" },
+            { "label": "Interior", "tag": "interior" }
+          ],
+          "cta": {
+            "label": "Reserve",
+            "url": "/us/reserve",
+            "hide_for_blocked_areas": true
+          },
+          "options": { "hide_for_small_screen": true }
+        },
+        "createdBy": "59eaa234b11b0d003127c6be",
+        "updatedBy": "5c33fa545272e90037e8ccc5",
+        "createdAt": "2018-05-18T18:55:06.135Z",
+        "updatedAt": "2022-03-24T22:20:22.249Z",
+        "__v": 0
+      },
+      {
+        "_id": "5b21a8c4ac353b000f24f861",
+        "title": "US | Dark | Subscrption Widget",
+        "widgetId": "Subscribe",
+        "props": {
+          "color_theme": "DARK",
+          "scroll_in_animation": false,
+          "region": "US",
+          "expandable": true,
+          "title": "Get the latest news and important updates from FF",
+          "form_fields": {
+            "email": "Email Address*",
+            "first_name": "First Name",
+            "last_name": "Last Name",
+            "zipcode": "Zipcode",
+            "interested_in_reserve": "I'm interested in reserving an FF 91",
+            "reserve_now": "Reserve Now",
+            "subscribe": "Subscribe",
+            "error_msg": "Something went wrong. Please try again later.",
+            "subscribe_in_china": "Please subscribe on our China region site.",
+            "success_message": "Your subscription has been confirmed. You’ll receive the latest news and updates from Faraday Future.",
+            "continue_to_reserve": "",
+            "blocked_country_message": "Thank you for your interest in Faraday Future. Subscription is not open to your country at this time. Please follow Faraday Future on social media for the latest vehicle and company updates."
+          },
+          "redirect_link": "/us/reserve",
+          "subtitle": "Sign up for the latest of the FF 91 Futurist and other news about Faraday Future"
+        },
+        "createdBy": "59eba5af2c355e000f2e29b0",
+        "updatedBy": "5c33fa545272e90037e8ccc5",
+        "createdAt": "2018-06-13T23:29:08.942Z",
+        "updatedAt": "2022-01-20T01:54:03.242Z",
+        "__v": 0
+      },
+      {
+        "_id": "5b36741d57d52e000fac6da9",
+        "title": "US | Footer Navigation",
+        "widgetId": "Footer",
+        "props": {
+          "regions": [
+            {
+              "imgUrl": "https://genesis-cdn.ff.com/icon-en.png",
+              "value": "US",
+              "domain": "https://www.ff.com/us/"
+            },
+            {
+              "imgUrl": "https://genesis-cdn.ff.com/icon-china.png",
+              "value": "CN",
+              "domain": "https://www.faradayfuturecn.com/cn/"
+            }
+          ],
+          "items": [
+            {
+              "url": "https://www.ff.com/us/sitemap",
+              "label": "Sitemap",
+              "sectionTitle": "ABOUT US",
+              "links": [
+                { "url": "/us/our-company/", "label": "Our Company" },
+                { "url": "/us/our-approach/", "label": "Our Approach" },
+                { "url": "/us/our-team/", "label": "Our Team" },
+                { "url": "/us/co-creation/", "label": "Co-Creation" },
+                { "url": "/us/press-room/", "label": "Press Room" },
+                { "url": "/us/futuresight/", "label": "Blog" },
+                { "url": "/us/solutions/", "label": "Solutions" },
+                { "url": "https://investors.ff.com", "label": "Investors" },
+                { "url": "/us/ff-zero-1/", "label": "FF Zero 1" },
+                { "url": "/us/gallery/", "label": "FF Gallery" }
+              ]
+            },
+            {
+              "url": "https://www.ff.com/us/privacy-policy",
+              "label": "Privacy Policy",
+              "sectionTitle": "SUPPORT",
+              "links": [
+                { "url": "/us/contact-us/", "label": "Contact Us" },
+                { "url": "/us/frequently-asked-questions/", "label": "FAQ" },
+                { "url": "/us/careers/", "label": "Careers" },
+                { "url": "/us/sitemap/", "label": "Sitemap" },
+                { "url": "/us/privacy-policy/", "label": "Privacy Policy" },
+                { "url": "/us/terms-of-use/", "label": "Terms of Use" }
+              ]
+            }
+          ],
+          "socialLinks": [
+            {
+              "url": "https://www.linkedin.com/company/faradayfuture",
+              "icon": "ff-icon-social-linkedin"
+            },
+            {
+              "url": "https://www.youtube.com/c/faradayfuture",
+              "icon": "ff-icon-social-youtube"
+            },
+            {
+              "url": "https://twitter.com/faradayfuture?lang=en",
+              "icon": "ff-icon-social-twitter"
+            },
+            {
+              "url": "https://www.facebook.com/faradayfuture/",
+              "icon": "ff-icon-social-facebook"
+            },
+            {
+              "url": "https://www.instagram.com/faradayfuture/",
+              "icon": "ff-icon-social-instagram"
+            }
+          ],
+          "copyright": {
+            "text": "© {year} Faraday&Future Inc. The Faraday Future name and logo are trademarks of Faraday&Future Inc. All rights reserved."
+          },
+          "download": {
+            "url": "https://www.ff.com/us/mobile-app/",
+            "title": "DOWNLOAD FF INTELLIGENT APP",
+            "iosStoreLink": "https://itunes.apple.com/us/app/id1454187098",
+            "iosAppLink": "https://faradayfuture.app.link",
+            "androidStoreLink": "https://play.google.com/store/apps/details?id=com.faradayfuture.online",
+            "androidAppLink": "faradayfuture://feed",
+            "appButtonText": "INSTALL APP"
+          },
+          "subscribeForm": {
+            "enabled": true,
+            "submitUrl": "/api/subscribe",
+            "title": "Get the latest news and important updates from FF",
+            "subtitle": "Sign up for the latest of the FF 91 Futurist and other news about Faraday Future",
+            "inputPlaceholder": "Email Address *",
+            "inputErrorMessage": "* Please enter a valid email address",
+            "serverErrorMessage": "Something went wrong. Please try again later.",
+            "successMessage": "Your subscription has been confirmed. You’ll receive the latest news and updates from Faraday Future.",
+            "button": "SUBSCRIBE →",
+            "margin": "10px 0px"
+          },
+          "footerRegion": "US"
+        },
+        "createdBy": "59eba5af2c355e000f2e29b0",
+        "updatedBy": "5c33fa545272e90037e8ccc5",
+        "createdAt": "2018-06-29T18:02:05.628Z",
+        "updatedAt": "2022-05-11T19:52:27.424Z",
+        "__v": 0
+      },
+      {
+        "_id": "5b4f6757ecbe07002084a8b2",
+        "title": "CN | Dark | Subscription Widget",
+        "widgetId": "Subscribe",
+        "props": {
+          "color_theme": "DARK",
+          "scroll_in_animation": false,
+          "region": "CN",
+          "expandable": false,
+          "title": "订阅FF的最新消息及重大新闻",
+          "form_fields": {
+            "email": "电子邮箱*",
+            "first_name": "名",
+            "last_name": "姓氏",
+            "zipcode": "邮政编码",
+            "interested_in_reserve": "我有意预订FF 91",
+            "reserve_now": "立即预订",
+            "subscribe": "订阅",
+            "error_msg": "请求失败，请稍后重试。",
+            "subscribe_in_china": "Please subscribe on our China region site.",
+            "success_message": "感谢您对FF的关注！我们会在未来定期为您提供有关Faraday Future的新闻资讯以及相关市场活动信息。",
+            "continue_to_reserve": "",
+            "blocked_country_message": ""
+          },
+          "redirect_link": "https://www.faradayfuturecn.com/cn/reserve"
+        },
+        "createdBy": "59eba5af2c355e000f2e29b0",
+        "updatedBy": "5c33fa545272e90037e8ccc5",
+        "createdAt": "2018-07-18T16:14:15.528Z",
+        "updatedAt": "2022-01-20T01:54:10.675Z",
+        "__v": 0
+      },
+      {
+        "_id": "5b6b28e7c8e77000208f2a07",
+        "title": "CN | Light | Subscription Widget",
+        "widgetId": "Subscribe",
+        "props": {
+          "color_theme": "LIGHT",
+          "scroll_in_animation": false,
+          "region": "CN",
+          "expandable": false,
+          "title": "订阅FF的最新消息及重大新闻",
+          "form_fields": {
+            "email": "电子邮箱*",
+            "first_name": "名",
+            "last_name": "姓氏",
+            "zipcode": "邮政编码",
+            "interested_in_reserve": "我有意预订FF 91",
+            "reserve_now": "立即预订",
+            "subscribe": "订阅",
+            "error_msg": "请求失败，请稍后重试。",
+            "subscribe_in_china": "",
+            "success_message": "感谢您对FF的关注！我们会在未来定期为您提供有关Faraday Future的新闻资讯以及相关市场活动信息。",
+            "continue_to_reserve": "",
+            "blocked_country_message": ""
+          },
+          "redirect_link": "https://www.faradayfuturecn.com/cn/reserve"
+        },
+        "createdBy": "59eba5af2c355e000f2e29b0",
+        "updatedBy": "5c33fa545272e90037e8ccc5",
+        "createdAt": "2018-08-08T17:31:19.370Z",
+        "updatedAt": "2022-01-20T01:54:15.600Z",
+        "__v": 0
+      },
+      {
+        "_id": "5b9c2a62794d4e0021a65adc",
+        "title": "US | Dark | Header Navigation | Sept 2018",
+        "widgetId": "MenuBar",
+        "props": {
+          "scroll_effect": true,
+          "color_theme": "DARK",
+          "logo_link": "/us/",
+          "first_set": [
+            { "url": "/us/ff-91/", "label": "FF 91", "subnav": [] },
+            {
+              "url": "/us/configurator/",
+              "label": "DESIGN YOURS",
+              "subnav": []
+            },
+            { "url": "/us/mobile-app/", "label": "APP", "subnav": [] },
+            {
+              "url": "https://investors.ff.com/",
+              "label": "INVESTORS",
+              "subnav": []
+            }
+          ],
+          "second_set": [
+            {
+              "label": "SIGN IN",
+              "subnav": [],
+              "url": "/us/account/",
+              "loggedInLabel": "My FF"
+            }
+          ],
+          "hero_button": { "url": "/us/preorder/", "label": "PREORDER" }
+        },
+        "createdBy": "59eba5af2c355e000f2e29b0",
+        "updatedBy": "60ad5ccda5344e00171c20ba",
+        "createdAt": "2018-09-14T21:38:42.707Z",
+        "updatedAt": "2022-05-10T18:06:38.412Z",
+        "__v": 0
+      },
+      {
+        "_id": "5ba56c95db6a0600205a3797",
+        "title": "US | Footer Navigation - No CN Flag",
+        "widgetId": "Footer",
+        "props": {
+          "regions": [
+            {
+              "imgUrl": "https://genesis-cdn.ff.com/icon-en.png",
+              "value": "US",
+              "domain": "https://www.ff.com/us/"
+            }
+          ],
+          "items": [
+            {
+              "url": "https://www.ff.com/us/sitemap",
+              "label": "Sitemap",
+              "sectionTitle": "ABOUT US",
+              "links": [
+                { "url": "/us/our-company/", "label": "Our Company" },
+                { "url": "/us/our-approach/", "label": "Our Approach" },
+                { "url": "/us/our-team/", "label": "Our Team" },
+                { "url": "/us/co-creation/", "label": "Co-Creation" },
+                { "url": "/us/press-room/", "label": "Press Room" },
+                { "url": "/us/futuresight/", "label": "Blog" },
+                { "url": "/us/solutions/", "label": "Solutions" },
+                { "url": "https://investors.ff.com", "label": "Investors" },
+                { "url": "/us/ff-zero-1/", "label": "FF Zero 1" },
+                { "url": "/us/gallery/", "label": "FF Gallery" }
+              ]
+            },
+            {
+              "url": "https://www.ff.com/us/privacy-policy",
+              "label": "Privacy Policy",
+              "sectionTitle": "SUPPORT",
+              "links": [
+                { "url": "/us/contact-us/", "label": "Contact Us" },
+                { "url": "/us/frequently-asked-questions/", "label": "FAQ" },
+                { "url": "/us/careers/", "label": "Careers" },
+                { "url": "/us/sitemap/", "label": "Sitemap" },
+                { "url": "/us/privacy-policy/", "label": "Privacy Policy" },
+                { "url": "/us/terms-of-use/", "label": "Terms of Use" }
+              ]
+            }
+          ],
+          "socialLinks": [
+            {
+              "url": "https://www.linkedin.com/company/faradayfuture",
+              "icon": "ff-icon-social-linkedin"
+            },
+            {
+              "url": "https://www.youtube.com/c/faradayfuture",
+              "icon": "ff-icon-social-youtube"
+            },
+            {
+              "url": "https://twitter.com/faradayfuture?lang=en",
+              "icon": "ff-icon-social-twitter"
+            },
+            {
+              "url": "https://www.facebook.com/faradayfuture/",
+              "icon": "ff-icon-social-facebook"
+            },
+            {
+              "url": "https://www.instagram.com/faradayfuture/",
+              "icon": "ff-icon-social-instagram"
+            }
+          ],
+          "copyright": {
+            "text": "© {year} Faraday&Future Inc. The Faraday Future name and logo are trademarks of Faraday&Future Inc. All rights reserved."
+          },
+          "download": {
+            "url": "https://www.ff.com/us/mobile-app/",
+            "title": "DOWNLOAD FF INTELLIGENT APP",
+            "iosStoreLink": "https://itunes.apple.com/us/app/id1454187098",
+            "iosAppLink": "https://faradayfuture.app.link",
+            "androidStoreLink": "https://play.google.com/store/apps/details?id=com.faradayfuture.online",
+            "androidAppLink": "faradayfuture://feed",
+            "appButtonText": "INSTALL APP"
+          },
+          "subscribeForm": {
+            "enabled": true,
+            "submitUrl": "/api/subscribe",
+            "title": "Get the latest news and important updates from FF",
+            "subtitle": "Sign up for the latest of the FF 91 Futurist and other news about Faraday Future",
+            "inputPlaceholder": "Email Address *",
+            "inputErrorMessage": "* Please enter a valid email address",
+            "serverErrorMessage": "Something went wrong. Please try again later.",
+            "successMessage": "Your subscription has been confirmed. You’ll receive the latest news and updates from Faraday Future.",
+            "button": "SUBSCRIBE →",
+            "margin": "10px 0px"
+          },
+          "footerRegion": "US"
+        },
+        "createdBy": "59eba5af2c355e000f2e29b0",
+        "updatedBy": "5c33fa545272e90037e8ccc5",
+        "createdAt": "2018-09-21T22:11:33.380Z",
+        "updatedAt": "2022-05-11T19:52:36.981Z",
+        "__v": 0
+      },
+      {
+        "_id": "633f648566a9ba002612ac35",
+        "title": "US | Light Header Navigation V2",
+        "widgetId": "MenuBar",
+        "props": {
+          "scroll_effect": true,
+          "color_theme": "LIGHT",
+          "logo_link": "/",
+          "first_set": [
+            {
+              "label": "FF 91",
+              "url": "/ff-91",
+              "subnav": [
+                { "url": "/ff-91#design", "label": "Design" },
+                { "url": "/ff-91#performance", "label": "Performance" },
+                { "url": "/ff-91#technology", "label": "Technology" },
+                { "url": "/ff-91#interior", "label": "Interior" }
+              ]
+            },
+            { "label": "DESIGN YOURS", "url": "/futuresight" },
+            { "label": "APP", "url": "/mobile-app" },
+            { "label": "INVESTORS", "url": "https://investors.ff.com/" }
+          ],
+          "second_set": [
+            { "label": "SIGN IN", "url": "/account", "loggedInLabel": "My FF" }
+          ],
+          "hero_button": { "label": "PREORDER YOURS", "url": "/preorder" },
+          "drawerLinks": [
+            { "label": "Home", "url": "/" },
+            {
+              "label": "Sign In",
+              "url": "/us/account/login",
+              "loggedInLabel": "My FF",
+              "loggedInLabelUrl": "/us/MyFF"
+            },
+            {
+              "label": "FF 91",
+              "url": "/us/ff-91",
+              "subnav": [
+                { "label": "FF 91 Futurist", "url": "/us/ff-91" },
+                { "label": "Design Yours", "url": "/us/configurator" }
+              ]
+            },
+            { "label": "App", "url": "/us/mobile-app" },
+            { "label": "Investors", "url": "https://investors.ff.com/" },
+            { "label": "Press Room", "url": "/us/press-room" },
+            { "label": "Contact Us", "url": "/us/contact-us" }
+          ],
+          "menubarLinks": [
+            { "label": "FF 91", "url": "/us/ff-91" },
+            { "label": "Investors", "url": "https://investors.ff.com/" }
+          ],
+          "version": "2",
+          "ctaButton": { "url": "/us/preorder", "label": "PREORDER" }
+        },
+        "createdBy": "60ad5ccda5344e00171c20ba",
+        "updatedBy": "60ad5ccda5344e00171c20ba",
+        "createdAt": "2022-10-06T23:28:05.832Z",
+        "updatedAt": "2022-11-07T21:51:00.400Z",
+        "__v": 0
+      },
+      {
+        "_id": "633f64ea66a9ba002612ac61",
+        "title": "US | Dark | Header Navigation V2",
+        "widgetId": "MenuBar",
+        "props": {
+          "scroll_effect": true,
+          "color_theme": "DARK",
+          "logo_link": "/",
+          "first_set": [
+            {
+              "label": "FF 91",
+              "url": "/ff-91",
+              "subnav": [
+                { "url": "/ff-91#design", "label": "Design" },
+                { "url": "/ff-91#performance", "label": "Performance" },
+                { "url": "/ff-91#technology", "label": "Technology" },
+                { "url": "/ff-91#interior", "label": "Interior" }
+              ]
+            },
+            { "label": "DESIGN YOURS", "url": "/futuresight" },
+            { "label": "APP", "url": "/mobile-app" },
+            { "label": "INVESTORS", "url": "https://investors.ff.com/" }
+          ],
+          "second_set": [
+            { "label": "SIGN IN", "url": "/account", "loggedInLabel": "My FF" }
+          ],
+          "hero_button": { "label": "PREORDER YOURS", "url": "/preorder" },
+          "drawerLinks": [
+            { "label": "Home", "url": "/" },
+            {
+              "label": "Sign In",
+              "url": "/us/account/login",
+              "loggedInLabel": "My FF",
+              "loggedInLabelUrl": "/us/MyFF"
+            },
+            {
+              "label": "FF 91",
+              "url": "/us/ff-91",
+              "subnav": [
+                { "label": "FF 91 Futurist", "url": "/us/ff-91" },
+                { "label": "Design Yours", "url": "/us/configurator" }
+              ]
+            },
+            { "label": "App", "url": "/us/mobile-app" },
+            { "label": "Investors", "url": "https://investors.ff.com/" },
+            { "label": "Press Room", "url": "/us/press-room" },
+            { "label": "Contact Us", "url": "/us/contact-us" }
+          ],
+          "menubarLinks": [
+            { "label": "FF 91", "url": "/us/ff-91" },
+            { "label": "Investors", "url": "https://investors.ff.com/" }
+          ],
+          "version": "2",
+          "ctaButton": { "url": "/us/preorder", "label": "PREORDER" }
+        },
+        "createdBy": "60ad5ccda5344e00171c20ba",
+        "updatedBy": "60ad5ccda5344e00171c20ba",
+        "createdAt": "2022-10-06T23:29:46.471Z",
+        "updatedAt": "2022-11-07T21:51:13.605Z",
+        "__v": 0
+      }
+    ]
+  }
+]

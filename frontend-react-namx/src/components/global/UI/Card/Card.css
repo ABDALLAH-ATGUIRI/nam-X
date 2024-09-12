@@ -1,0 +1,77 @@
+.button {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 6px 6px;
+    border-radius: 100%;
+    transition: 0.5s;
+    position: relative;
+    font-size: 17px;
+    background: none;
+    border: none;
+    color: #fff;
+
+}
+
+.button:hover {
+    letter-spacing: 0.25em;
+    background: white;
+    color: white;
+    box-shadow: 0 0 45px white;
+}
+
+.button::before {
+    content: "";
+    position: absolute;
+    inset: 2px;
+    background: none;
+}
+
+.button svg {
+    position: relative;
+    color: white;
+    z-index: 1;
+}
+
+.button i {
+    position: absolute;
+    inset: 0;
+    display: block;
+}
+
+.button i::before {
+    content: "";
+    position: absolute;
+    border: 2px solid white;
+    border-radius: 100%;
+    width: 4px;
+    height: 4px;
+    top: -3.5px;
+    left: 80%;
+    background: white;
+    transform: translateX(-50%);
+    transition: 0.5s;
+}
+
+.button:hover i::before {
+    width: 6px;
+    left: 20%;
+}
+
+.button i::after {
+    content: "";
+    position: absolute;
+    border: 2px solid white;
+    border-radius: 100%;
+    width: 4px;
+    height: 4px;
+    bottom: -3.5px;
+    left: 20%;
+    background: white;
+    transform: translateX(-50%);
+    transition: 0.5s;
+}
+
+.button:hover i::after {
+    width: 6px;
+    left: 80%;
+}
